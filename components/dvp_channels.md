@@ -2,14 +2,19 @@
 layout: default
 title: DvP Channels
 nav_order: 2
-parent: IQ Protocol Components
+parent: How IQ Protocol Works?
 ---
 
-TODO: This is a dump of ideas, worse than a draft. Add. Distill. Proofread.
+<!--
 
-Goal for page: explain dvp channels - what problems they solve, and when they are optional.
+Page meta:
+- Goal: explain dvp channels - what problems they solve, and when they are optional.
+- Status: This is a dump of ideas, worse than a draft. Add. Distill. Proofread.
 
-****
+-->
+
+Delivery-versus-Payment Channels
+================================================================================
 
 DvP channel stands for Delivery-versus-Payment channel, that technically is special-purpose off-chain state channel.
 It is established between power enterprise and consumer for the purpose of accounting and audit trail.

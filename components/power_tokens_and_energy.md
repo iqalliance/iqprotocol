@@ -2,24 +2,21 @@
 layout: default
 title: Power Tokens and Energy
 nav_order: 1
-parent: IQ Protocol Components
+parent: How IQ Protocol Works?
 ---
 
-TODO: This is a dump of ideas, worse than a draft. Add. Distill. Proofread.
+<!--
 
-Goal for page: explain Power Tokens so that:
-- blockchain companies can arrive to informed decision on whenever Power Tokens applies for their business model
-- consumers can argue for what services it wish to see Power Tokens adopted and for which it won't make sense
+Page meta:
+- Goal: blockchain companies can arrive to informed decision on whenever Power Tokens are compatible with for their business model.
+- Status: This is a dump of ideas, worse than a draft. Add. Distill. Proofread.
 
-****
+-->
 
+Power Tokens and Energy
+================================================================================
 
-
-
-Power Tokens
---------------------------------------------------------------------------------
-
-Power token is a token that generates utility over time.
+**Power token is a token that generates utility over time.**
 Some examples of Power Tokens:
 - Farmer sells tomato Power Tokens that represent 1 kg/day tomatoes with decay of 1 day half-life.
 - CheapISP sells ISP Power Tokens that represent 1 MB/s internet with instant decay.

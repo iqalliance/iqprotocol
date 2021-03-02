@@ -2,19 +2,21 @@
 layout: default
 title: Renting Pools
 nav_order: 3
-parent: IQ Protocol Components
+parent: How IQ Protocol Works?
 ---
 
-TODO: This is a dump of ideas, worse than a draft. Add. Distill. Proofread.
+<!--
 
-Goal for page: explain Renting Pools so that
-- post-ICO companies can arrive to informed decision on whenever to migrate from ERC-20 tokens to Power Tokens
-- ICO Participants can understand the value of their Power Tokens
+Page meta:
+- Goal: post-ICO companies can arrive to informed decision on whenever to migrate from ERC-20 tokens to Power Tokens.
+- Status: This is a dump of ideas, worse than a draft. Add. Distill. Proofread.
 
-****
+-->
 
-Problem: Many companies that could use IQ Protocol has already minted their tokens and had a ICO.
-Solution: Declare ICO tokens as power tokens with infinite expiry date, and use Renting Pools.
+Renting Pools
+================================================================================
+
+Many companies that could use IQ Protocol has already minted their tokens and had a ICO. IQ Protocol proposes a solution - declare ICO tokens as power tokens with infinite expiry date, and use Renting Pools.
 
 The Renting Pool is like a lending pool, but with ability to rent power token at variable expiry dates.
 It serves two purposes:

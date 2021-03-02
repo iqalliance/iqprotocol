@@ -1,18 +1,20 @@
 ---
 layout: default
-title: IQ Protocol Components
+title: How IQ Protocol Works?
 nav_order: 1
 has_children: true
 ---
 
-TODO: This is a dump of ideas, worse than a draft. Add. Distill. Proofread.
+<!--
 
-Goal for page: come up with the perfect "TL;DR: IQ Protocol" for all parties involved:
-- companies: how Power Tokens would impact my business model
-- ICO participants: how Power Tokens would impact value of tokens
-- Consumers: how Power Tokens would impact received services
+Page meta:
+- Goal: summary of IQ Protocol works.
+- Status: This is a dump of ideas, worse than a draft. Add. Distill. Proofread.
 
-****
+-->
+
+How IQ Protocol Works?
+================================================================================
 
 The Power Token concept changes the perspective on economic relationships from transactional-first to subscription-first.
 
