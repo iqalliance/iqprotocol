@@ -8,7 +8,7 @@ parent: How IQ Protocol Works?
 <!--
 
 Page meta:
-- Goal: post-ICO companies can arrive to informed decision on whenever to migrate from ERC-20 tokens to Power Tokens.
+- Goal: Explain how it works.
 - Status: This is a dump of ideas, worse than a draft. Add. Distill. Proofread.
 
 -->

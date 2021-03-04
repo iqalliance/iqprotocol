@@ -8,7 +8,7 @@ parent: How IQ Protocol Works?
 <!--
 
 Page meta:
-- Goal: blockchain companies can arrive to informed decision on whenever Power Tokens are compatible with for their business model.
+- Goal: Explain how it works.
 - Status: This is a dump of ideas, worse than a draft. Add. Distill. Proofread.
 
 -->

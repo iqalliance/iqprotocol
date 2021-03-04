@@ -13,15 +13,12 @@ Website meta:
 
 Page meta
 - Goal: the "TL;DR: IQ Protocol".
+- Status: Draft.
 
 -->
 
 IQ Protocol
 ================================================================================
-
-IQ Protocol is created for the blockchain community:
-- for [ICO Companies](users/companies.md) to easily adapt subscription based business model.
-- for [ICO participants](users/ico_participants.md) to earn passive income on ICO tokens.
 
 *If Tokens are like a decentralized money, then **Power Tokens** are like a decentralized subscription.*
 
@@ -65,8 +62,10 @@ Read more about [IQ Protocol for ICO Companies](./users/companies.md).
 ICO Participants
 --------------------------------------------------------------------------------
 
-*IQ Protocol enables **passive income** from ICO tokens*
+*IQ Protocol enables **passive income** opportunities*
 
-ICO Participants can earn passive income from their ICO tokens by renting them without a risk.
+ICO Participants can rent ICO tokens at risk of not being able to immediately withdraw them.
+In return they receive iTokens tho earn passive income on their share of rents.
+ICO tokens are not securities whereas iTokens are, that ICO Participants can explicitly exchange between.
 
 Read more about [IQ Protocol for ICO Participants](./users/ico_participants.md).
